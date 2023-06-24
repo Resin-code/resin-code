@@ -4,6 +4,8 @@
 
 [![Github](https://img.shields.io/github/followers/resin-code?label=Follow&style=social)](https://github.com/resin-code)
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <div size='20px'> Hi! My name is Roland. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -12,6 +14,7 @@
 - 🔭 I’m currently developing a game
   
 - 🌱 I’m currently learning Rust
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/resin-code?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -30,13 +33,13 @@
 <a href = 'https://www.twitter.com/roli_greiner'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <!--<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>-->
 <a href = 'https://www.github.com/resin-code'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-<br>
 
-| ![resin's github stats](https://github-readme-stats.vercel.app/api?username=resin-code&show_icons=true&theme=tokyonight) | ![resin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=resin-code&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resin-code&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=resin-code&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Resin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resin-code&theme=tokyonight&layout=compact)
+![Resin's github stats](https://github-readme-stats.vercel.app/api?username=resin-code&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=resin-code&theme=tokyonight" alt="mystreak"/>
+![Github Stars](https://github-readme-stats.vercel.app/api?username=resin-code&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
