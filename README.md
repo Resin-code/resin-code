@@ -11,6 +11,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🎓 I'm currently learn Computer Science and Mathematics in Highschool
+
 - 🔭 I’m currently developing a game
   
 - 🌱 I’m currently learning Rust
