@@ -41,6 +41,8 @@
 
 </p>
 
+![Resin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resin-code)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
