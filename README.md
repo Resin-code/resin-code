@@ -33,13 +33,20 @@
 </p>
 
 
-![Resin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resin-code&layout=compact&theme=tokyonight)
-![Resin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resin-code&theme=tokyonight&layout=compact)
-
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=resin-code&theme=tokyonight)
-![Resin's github stats](https://github-readme-stats.vercel.app/api?username=resin-code&show_icons=true&locale=en&count_private=true&rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=resin-code&theme=tokyonight"
+            alt="Resin's Github commit streak">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=resin-code&show_icons=true&theme=tokyonight&count_private=true"
+            alt="Resin's Github stats">
+    </a>
+    <a href="https://wakatime.com/@resin/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=resin-code&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+            alt="Resin's wakatime last year stats">
+    </a>
+</div>
 
 </p>
 
