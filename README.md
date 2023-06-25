@@ -41,7 +41,7 @@
 
 </p>
 
-![Resin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resin-code)
+![Resin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resin-code&layout=compact&theme=tokyonight)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
