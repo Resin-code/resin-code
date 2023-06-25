@@ -32,6 +32,8 @@
 
 </p>
 
+
+![Resin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resin-code&layout=compact&theme=tokyonight)
 ![Resin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resin-code&theme=tokyonight&layout=compact)
 
 </p>
@@ -40,8 +42,6 @@
 ![Resin's github stats](https://github-readme-stats.vercel.app/api?username=resin-code&show_icons=true&locale=en&count_private=true&rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 </p>
-
-![Resin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resin-code&layout=compact&theme=tokyonight)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
