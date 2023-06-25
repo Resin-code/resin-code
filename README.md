@@ -43,7 +43,7 @@
             alt="Resin's Github stats">
     </a>
     <a href="https://wakatime.com/@resin">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=resin&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=resin&hide_progress=false&custom_title=Wakatime%20last%20year%20Stats"
             alt="Resin's wakatime last year stats">
     </a>
 </div>
