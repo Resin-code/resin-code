@@ -43,14 +43,14 @@
             alt="Resin's Github stats">
     </a>
     <a href="https://wakatime.com/@resin">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=resin&hide_progress=false&layout=compact&theme=tokyonight&custom_title=Wakatime%20last%20year%20Stats"
+        <img width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=resin&hide_progress=false&layout=compact&theme=tokyonight&custom_title=Wakatime%20last%20year%20Stats"
             alt="Resin's wakatime last year stats">
     </a>
+    </p>
+    <a href="">
+        <img width="45%" src="https://readme-jokes.vercel.app/api?theme=tokyonight">
+    </a>
 </div>
-
-</p>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
