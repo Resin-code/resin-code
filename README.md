@@ -3,7 +3,7 @@
 <a href="https://github.com/PinusFox/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PinusFox&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&width=325&line_height=20" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://wakatime.com/dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinusFox&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
