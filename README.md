@@ -1,3 +1,4 @@
+<a href="https://wakatime.com/@56336e52-ecb7-4494-bc5a-1025c4846400"><img src="https://wakatime.com/badge/user/56336e52-ecb7-4494-bc5a-1025c4846400.svg" alt="Total time coded since Jun 25 2023" /></a>
 ### Hi 👋
 
 <a href="https://github.com/PinusFox/github-readme-stats">
